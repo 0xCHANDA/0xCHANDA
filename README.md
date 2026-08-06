@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there <img src="https://raw.githubusercontent.com/JoseRZapata/JoseRZapata/master/wave.gif" width="30">
 
 **Who's this?** Al que le hablan de rap y le brillan los ojos.
 
@@ -6,6 +6,7 @@ I'm a Systems Engineering student who enjoys building, breaking and improving th
 
 * 🌱 Currently learning **C#, software architecture, automation and Linux**
 * 🛠️ Interested in **clean code, cybersecurity, useful systems and open-source projects**
+* 🎨 Into graffiti, **sticker art and hip-hop culture**
 * 📫 Reach me at **[santiago.hernandezm@upb.edu.co](mailto:santiago.hernandezm@upb.edu.co)**
 
 ### Some bars I live by
