@@ -1,4 +1,4 @@
-## Hi there <img src="https://raw.githubusercontent.com/JoseRZapata/JoseRZapata/master/wave.gif" width="30">
+## Hi there      <img src="https://raw.githubusercontent.com/JoseRZapata/JoseRZapata/master/wave.gif" width="20">
 
 **Who's this?** Al que le hablan de rap y le brillan los ojos.
 
