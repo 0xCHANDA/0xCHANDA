@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**0xCHANDA/0xCHANDA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Who's this?** Al que le hablan de rap y le brillan los ojos.
 
-Here are some ideas to get you started:
+I'm a Systems Engineering student who enjoys building, breaking and improving things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌱 Currently learning **C#, software architecture, automation and Linux**
+* 🛠️ Interested in **clean code, cybersecurity, useful systems and open-source projects**
+* 📫 Reach me at **[santiago.hernandezm@upb.edu.co](mailto:santiago.hernandezm@upb.edu.co)**
+
+### Some bars I live by
+
+> “Si Dios fuese rapero, mi vieja fuese su ghostwriter.”
+> — FUNKDEALER
+
+> “Le debo la vida a los temas de mi playlist.”
+> — Oblivion’s Mighty Trash
+
+> “El fin justifica los medios, los bajos y los agudos.”
+> — Zof Ziro
