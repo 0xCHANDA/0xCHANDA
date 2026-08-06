@@ -6,7 +6,7 @@ I'm a 19yo Systems Engineering student who enjoys building, breaking and improvi
 
 * 🌱 Currently learning **C#, software architecture, automation and Linux**
 * 🛠️ Interested in **clean code, cybersecurity, useful systems and open-source projects**
-* 🎨 Into graffiti, **sticker art and hip-hop culture**
+* 🎨 Into **graffiti, sticker art and hip-hop culture**
 * 📫 Reach me at **[santiago.hernandezm@upb.edu.co](mailto:santiago.hernandezm@upb.edu.co)**
 
 ### Some bars I live by
