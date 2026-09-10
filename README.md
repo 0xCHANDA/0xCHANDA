@@ -2,8 +2,7 @@
 
 **Who's this?** Al que le hablan de rap y le brillan los ojos.
 
-I'm a 19yo Systems Engineering student who enjoys building, breaking and improving things.
-& I use Arch BTW 🥀
+I'm a 19yo Systems Engineering student who enjoys building, breaking and improving things. Arch user, btw. 🥀
 
 * 🌱 Currently learning **C#, software architecture, automation and Linux**
 * 🛠️ Interested in **clean code, cybersecurity, useful systems and open-source projects**
