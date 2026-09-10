@@ -4,8 +4,8 @@
 
 I'm a 19yo Systems Engineering student who enjoys building, breaking and improving things. Arch user, btw. 🥀
 
-* 🌱 Currently learning **C#, software architecture, automation and Linux**
-* 🛠️ Interested in **clean code, cybersecurity, useful systems and open-source projects**
+* 🌱 Currently exploring software architecture, automation, Linux and distributed systems*
+* 🛠️ Interested in **software architecture, automation, Linux infrastructure, cybersecurity and building systems that are actually useful**
 * 🎨 Into **graffiti, sticker art and hip-hop culture**
 * 📫 Reach me at **[santiago.hernandezm@upb.edu.co](mailto:santiago.hernandezm@upb.edu.co)**
 
