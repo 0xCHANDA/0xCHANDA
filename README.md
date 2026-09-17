@@ -10,7 +10,6 @@ I'm a 19yo Systems Engineering student who enjoys building, breaking and improvi
 * 🎨 Into **graffiti, sticker art and hip-hop culture**
 * 📫 Reach me at:
 * **[contact@chanda.dev](mailto:contact@chanda.dev)**
-* **[santiago.hernandezm@upb.edu.co](mailto:santiago.hernandezm@upb.edu.co)**
 
 ### Some bars I live by
 
