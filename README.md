@@ -8,8 +8,7 @@ I'm a 19yo Systems Engineering student who enjoys building, breaking and improvi
 * 🛠️ Interested in **automation, Linux infrastructure, cybersecurity and building systems that are actually useful**
 * 🖥️ Running a small **homelab with Proxmox, Docker, monitoring and self-hosted services**, mostly to learn how systems behave outside localhost
 * 🎨 Into **graffiti, sticker art and hip-hop culture**
-* 📫 Reach me at:
-* **[contact@chanda.dev](mailto:contact@chanda.dev)**
+* 📫 Reach me at: **[contact@chanda.dev](mailto:contact@chanda.dev)**
 
 ### Some bars I live by
 
